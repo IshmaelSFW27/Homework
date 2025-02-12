@@ -34,10 +34,6 @@ permalink: /HM2/
     </tr>
   </table>
   |Command|Description|
-  | ---:|---|
-  |git add | Stage changes for commit|
-  |git commit | Record changes to the repository|
-  |git push | Upload local repository content to a remote repository|
   >This is a quote
   <p><a href="https://www.google.com">This is a link to Google</a></p>
   </html>
