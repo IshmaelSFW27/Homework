@@ -40,7 +40,6 @@ permalink: /HM2/
       <td>Upload local repository content to a remote repository</td>
     </tr>
   </table>
-  |Command|Description|
   <blockquote>This is a quote</blockquote>
   <p><a href="https://www.google.com">This is a link to Google</a></p>
   </html>
