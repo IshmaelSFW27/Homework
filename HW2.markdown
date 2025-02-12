@@ -26,6 +26,10 @@ permalink: /HM2/
   <h1>Table</h1>
   <table style="width:100">
     <tr>
+      <th>Command</th>
+      <th>Description</th>
+    </tr>
+    <tr>
       <th>git add</th>
       <th>git commit</th>
       <th>git push</th>
