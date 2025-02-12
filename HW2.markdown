@@ -7,7 +7,7 @@ permalink: /HM2/
 <h3>This is a heading</h3>
 <h1>Here's a smaller heading</h1>
 <h6>This is a paragraph</h6>
-<p>**this will be bold** <strike>this will be strike through</strike> **this will be underlined**</p>
+<p><b>this will be bold</b> <strike>this will be strike through</strike> <b>this will be underlined</b></p>
 <h1>Lists</h1>
 <h2>Unordered</h2>
 <li>item one</li>
