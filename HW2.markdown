@@ -10,12 +10,11 @@ permalink: /HM2/
 <p>**this will be bold** <strike>this will be strike through</strike> **this will be underlined**</p>
 <h1>Lists</h1>
 <h2>Unordered</h2>
-<ol>
 <li>item one</li>
 <li>item two</li>
 <li>item a</li>
 <li>item b</li>
-</ol>
+  
   <h2>Ordered</h2>
   <ol>
   <li>Item 1</li>
