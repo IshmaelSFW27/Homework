@@ -21,6 +21,18 @@ permalink: /HM2/
   4. Item 3a
 
   <h1>Table</h1>
+  <table style="width:100">
+    <tr>
+      <th>git add</th>
+      <th>git commit</th>
+      <th>git push</th>
+    </tr>
+    <tr>
+      <td>Stage changes for commit</td>
+      <td>Record changes to the repository</td>
+      <td>Upload local repository content to a remote repository</td>
+    </tr>
+  </table>
   |Command|Description|
   | ---:|---|
   |git add | Stage changes for commit|
