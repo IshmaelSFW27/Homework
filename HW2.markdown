@@ -37,6 +37,6 @@ permalink: /HM2/
     </tr>
   </table>
   |Command|Description|
-  >This is a quote
+  <blockquote>This is a quote</blockquote>
   <p><a href="https://www.google.com">This is a link to Google</a></p>
   </html>
