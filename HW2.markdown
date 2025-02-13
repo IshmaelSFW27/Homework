@@ -1,8 +1,18 @@
-
+---
 layout: Page
 title: HM2
 permalink: /HM2/
 ---
+
+Layout: Page
+
+&nbsp;
+
+Title: HM2
+
+&nbsp;
+
+permalink: /HM2/
 <html>
 <h3>This is a heading</h3>
 <h1>Here's a smaller heading</h1>
