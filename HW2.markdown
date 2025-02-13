@@ -1,7 +1,10 @@
----
+nav:
 layout: page
+url:page
 title: HM2
+url:Homework
 permalink: /HM2/
+url:Homework
 ---
 <html>
 <h3>This is a heading</h3>
