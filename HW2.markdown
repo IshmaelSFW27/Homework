@@ -1,8 +1,6 @@
 
-layout: page
-
+layout: Page
 title: HM2
-
 permalink: /HM2/
 ---
 <html>
